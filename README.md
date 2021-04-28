@@ -1,4 +1,4 @@
-### Hi there, I'm Winnie. 👋
+## Hi there, I'm Winnie. 👋
 
 - 🌎 Malaysian, based in taiwan
 - 🌱 Start learning front-end development from February 2021
