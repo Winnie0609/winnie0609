@@ -15,6 +15,9 @@
 ### Skill and tools
 <img alt="HTML 5" width="33" src="https://user-images.githubusercontent.com/49323767/116334207-68b71b00-a807-11eb-8ba1-0bfd9315fe8f.png">&nbsp;&nbsp;<img alt="CSS" width="33" src="https://user-images.githubusercontent.com/49323767/116334209-694fb180-a807-11eb-81b1-d135ecc3adf6.png">&nbsp;&nbsp;<img alt="JavaScript" width="33" src="https://user-images.githubusercontent.com/49323767/116334187-60f77680-a807-11eb-8667-4a0a4737605a.png">&nbsp;&nbsp;<img alt="React JS" width="33" src="https://user-images.githubusercontent.com/49323767/116334204-6785ee00-a807-11eb-9717-da44cff9e9cd.png">&nbsp;&nbsp;<img alt="Photoshop" width="31" src="https://user-images.githubusercontent.com/49323767/116334750-4eca0800-a808-11eb-9a5b-9c104a432660.png">&nbsp;&nbsp;<img alt="Illustrator" width="30" src="https://user-images.githubusercontent.com/49323767/116334666-2e9a4900-a808-11eb-8126-70eaf8f2cefd.png">&nbsp;&nbsp;
 
+### Languages
+Mandarin, English, Bahasa Melayu, Cantonese, Taiwanese
+
 <!--
 **Winnie0609/winnie0609** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
