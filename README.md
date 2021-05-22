@@ -25,9 +25,9 @@ Mandarin, English, Bahasa Melayu, Cantonese, Taiwanese
  * ⌨️ [Typing Speed Test | React](https://github.com/Winnie0609/speed-test-app)  
  * ✔️ [Todo App | React](https://github.com/Winnie0609/todo-app)  
  * 😜 [Joke Generator | Vanilla JS](https://github.com/Winnie0609/joke-generator)  
- * 🐍 [Snake Game](https://github.com/Winnie0609/snake-game)  
- * 🟡 [Pacman Game](https://github.com/Winnie0609/pacman-game)  
- * 🎲 [Dice Game](https://github.com/Winnie0609/dice-game)  
+ * 🐍 [Snake Game | Vanilla JS](https://github.com/Winnie0609/snake-game)  
+ * 🟡 [Pacman Game | Vanilla JS](https://github.com/Winnie0609/pacman-game)  
+ * 🎲 [Dice Game | Vanilla JS](https://github.com/Winnie0609/dice-game)  
 
 <!--
 **Winnie0609/winnie0609** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
