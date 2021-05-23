@@ -18,7 +18,7 @@
 ### Languages
 Mandarin, English, Bahasa Melayu, Cantonese, Taiwanese
 
-### Portfolio
+### Project
  * 📺 [Netflix Clone | React](https://github.com/Winnie0609/netflix-clone-react)  
  * 🎞️ [Movie App | React](https://github.com/Winnie0609/movie-app)  
  * 😂 [Meme Generator | React](https://github.com/Winnie0609/meme-generator)  
