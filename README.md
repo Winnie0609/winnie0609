@@ -12,30 +12,3 @@
 ### Skills and tools
 React Native, React, JavaScript, HTML, CSS
 
-### Languages
-Mandarin, English, Bahasa Melayu, Cantonese, Taiwanese
-
-### Projects
- * 📺 [Netflix Clone | React](https://github.com/Winnie0609/netflix-clone-react)  
- * 🎞️ [Movie App | React](https://github.com/Winnie0609/movie-app)  
- * 😂 [Meme Generator | React](https://github.com/Winnie0609/meme-generator)  
- * ⌨️ [Typing Speed Test | React](https://github.com/Winnie0609/speed-test-app)  
- * ✔️ [Todo App | React](https://github.com/Winnie0609/todo-app)  
- * 😜 [Joke Generator | Vanilla JS](https://github.com/Winnie0609/joke-generator)  
- * 🐍 [Snake Game | Vanilla JS](https://github.com/Winnie0609/snake-game)  
- * 🟡 [Pacman Game | Vanilla JS](https://github.com/Winnie0609/pacman-game)  
- * 🎲 [Dice Game | Vanilla JS](https://github.com/Winnie0609/dice-game)  
-
-<!--
-**Winnie0609/winnie0609** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
