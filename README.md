@@ -1,7 +1,7 @@
 
 # Hi there, I'm Winnie. 👋
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=24292E&width=435&lines=A+Front-end+Developer;Passionate+about+AI+Integration;Building+Intuitive+Web+%26+Mobile+Apps" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=24292E&width=435&lines=A+Front-end+Developer;Passionate+about+AI;Building+Intuitive+Web;Building+Mobile+Apps" alt="Typing SVG" /></a>
 
 I'm a Front-end Developer based in Taipei, Taiwan, specializing in building high-quality web and mobile applications with React and React Native.
 
